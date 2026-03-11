@@ -1,2 +1,2 @@
 # projeto-layout
-Projeto do curso Inovation class Avanti.
+Projeto do curso Innovation class Avanti.
