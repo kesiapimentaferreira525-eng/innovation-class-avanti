@@ -1,4 +1,51 @@
 h1{
     font-family: Arial, Helvetica, sans-serif;
-    color: blue;
+    color: rgba(55, 79, 136, 0.81);
+}
+
+
+/* reset css */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*container gerais*/
+
+.container{
+
+    width: 1280px;
+    margin: auto;
+}
+
+.flex{
+    display: flex;
+}
+
+
+.justify-content{
+
+    justify-content:space-between;
+}
+
+/* header styles */
+
+header {
+
+   background-color: #666;
+    text-align: center;
+    padding: 20px 15px 5px 25px;
+
+/*padding-right: 20px;  
+padding-left: 30px; 
+padding-top: 20px;
+padding-bottom: 5px;*/
+}
+
+
+
+.header img{
+    width: 200px;
+    height: auto;
 }
