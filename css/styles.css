@@ -147,6 +147,7 @@ main section p{
 
 main section article a{
     border-radius: 5px ;
+    font-size: 12px;
     background-color: #828282;
     color: #fff;
     padding : 8px 4px;
